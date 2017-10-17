@@ -1,0 +1,21 @@
+body{
+	background-color: #fff;
+	font-size: 14px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #252525;
+}
+.box-login{
+	max-width: 500px;
+	margin: 40px auto 0;
+	background-color: #f1f1f1;
+	padding: 20px;
+	border-radius: 20px;
+	text-align: center;
+}
+.box-login form>h4{
+	text-align: right;
+}
+.box-login form>h4>a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #ff6000;
